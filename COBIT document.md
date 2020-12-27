@@ -1,6 +1,8 @@
 # COBIT
 
-In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgelegd wat COBIT voor standaard/framework is. Er zijn verschillende bronnen gebruikt, wat onderaan de pagina teruggevonden kan worden. Tevens dienen de plaatjes ter verduidelijking voor het framework.
+In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgelegd wat COBIT voor standaard/framework is. Er zijn verschillende bronnen gebruikt, wat onderaan de pagina teruggevonden kan worden. Tevens dienen de plaatjes ter verduidelijking voor het framework. 
+
+Onderaan de pagina is er een link naar het filmpje beschikbaar, over de introductie van COBIT2019.
 
 </br> 
 
