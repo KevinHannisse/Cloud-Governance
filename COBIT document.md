@@ -23,6 +23,7 @@ In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgel
     **Per proces, worden er capaciteits- en volwassenheidsniveaus gemeten op een van 0 tot 5:**
 
     ![Prestatiemeter image](Prestatiemeter.png)
+    
     (IT Management Group, 2020)
 
     Een groot verschil met COBIT 5 (de vorige versie) is dat COBIT 2019 ontwerpfactoren heeft. Je kan hiermee het ontwerp van het COBIT governance systeem op maat maken. 
@@ -30,6 +31,7 @@ In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgel
     **Dit zijn de volgende ontwerpfactoren:**
 
     ![Ontwerpfactor image](Ontwerpfactoren.png)
+    
     (IT Management Group, 2020)
 </br>
 
@@ -63,6 +65,7 @@ In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgel
     **Een governance system ziet er voor COBIT als volgt uit:**
 
     ![Govenance image](Governance-system.png)
+    
     (IT Management Group, 2020)
 
 </br>
