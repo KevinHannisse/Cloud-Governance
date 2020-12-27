@@ -17,6 +17,7 @@ In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgel
     **Hieronder worden de processen afgebeeld:**
 
     ![COBIT-processen image](COBIT-processen.png)
+    
     (IT Management Group, 2020)
     
     **Per proces, worden er capaciteits- en volwassenheidsniveaus gemeten op een van 0 tot 5:**
