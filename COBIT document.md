@@ -26,6 +26,8 @@ In dit document wordt op een korte, maar krachtige en begrijpelijk manier uitgel
     
     (IT Management Group, 2020)
 
+    Een bedrijf is adequaat ingericht, indien het zich op niveau 5 bevindt. Iedereen begint op 0, waarbij het de bedoeling is om in de loop der tijd hoger op de lijst             te eindigen. 
+    
     Een groot verschil met COBIT 5 (de vorige versie) is dat COBIT 2019 ontwerpfactoren heeft. Je kan hiermee het ontwerp van het COBIT governance systeem op maat maken. 
 
     **Dit zijn de volgende ontwerpfactoren:**
